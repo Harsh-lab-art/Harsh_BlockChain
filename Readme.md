@@ -6,6 +6,9 @@ This smart contract provides a platform for incentivizing peer-led workshops. Fa
 ## Contract Address
 0x453d9aaefbe1f678ddba3a2171488ff5f4c26596
 
+![image](https://github.com/user-attachments/assets/d00d0223-ede3-427f-90a5-4f7e754f2184)
+
+
 ## Project Vision
 The project aims to foster knowledge-sharing communities by rewarding facilitators and participants in workshops. By leveraging blockchain technology, it ensures fair distribution of incentives and promotes active participation in educational activities.
 
